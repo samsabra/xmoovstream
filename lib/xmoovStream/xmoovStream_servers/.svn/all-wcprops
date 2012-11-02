@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/46/trunk/stream.magi/libs/xmoovStream/xmoovStream_servers
+END
+protected_image_server.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/45/trunk/stream.magi/libs/xmoovStream/xmoovStream_servers/protected_image_server.inc.php
+END
+player_server.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/45/trunk/stream.magi/libs/xmoovStream/xmoovStream_servers/player_server.inc.php
+END
+embed_server.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/45/trunk/stream.magi/libs/xmoovStream/xmoovStream_servers/embed_server.inc.php
+END
+protected_download_server.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/45/trunk/stream.magi/libs/xmoovStream/xmoovStream_servers/protected_download_server.inc.php
+END
+audio_server.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/45/trunk/stream.magi/libs/xmoovStream/xmoovStream_servers/audio_server.inc.php
+END
+image_server.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/45/trunk/stream.magi/libs/xmoovStream/xmoovStream_servers/image_server.inc.php
+END
+file_info.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/45/trunk/stream.magi/libs/xmoovStream/xmoovStream_servers/file_info.inc.php
+END
+video_server.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/45/trunk/stream.magi/libs/xmoovStream/xmoovStream_servers/video_server.inc.php
+END
+download_server.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/45/trunk/stream.magi/libs/xmoovStream/xmoovStream_servers/download_server.inc.php
+END
+helper.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/45/trunk/stream.magi/libs/xmoovStream/xmoovStream_servers/helper.inc.php
+END

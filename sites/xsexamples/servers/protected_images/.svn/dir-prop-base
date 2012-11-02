@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 34
+*.mp4
+*.mp3
+*.flv
+*.mpg
+*.tpl.php
+
+END
